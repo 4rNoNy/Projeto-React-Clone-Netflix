@@ -1,5 +1,7 @@
-Clone do NetFlix em REACT usando uma Api
-um projeto totalmente responsivo, rodando em descktop e dispositivos mobiles.
+Clone da página inicial do NetFlix em REACT, usando uma API externa.
+
+Um projeto totalmente responsivo, rodando em descktop e dispositivos móbiles.
+
 Portifolio do Deselvolvedor
 ## Ícones
 
